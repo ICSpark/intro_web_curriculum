@@ -70,7 +70,7 @@ Material geared towards 6th - 12th graders.
 - **Answer Key (ONLY MENTOR ACCESS)**: https://github.com/ICSpark/mentor-resources/tree/master/projects/10_Pop_up_penguin
 - **Slides (ONLY ICSPARK ACCESS)**: https://docs.google.com/presentation/d/1ZgS-XFcUvPUyRUt12ArWeI--_1hfRo_K/edit?rtpof=true
 
-### Week 11 (Reivew and Final Project)
+### Week 11 (Review, Other Tools)
 - **Notes**: https://github.com/ICSpark/intro_web_curriculum/tree/main/week11/slides.md
 - **Project**: PERSONAL FINAL PROJECT 
 - **Slides (ONLY ICSPARK ACCESS)**: https://docs.google.com/presentation/d/1rWQGe74cajQ3Zgf1zaGsOTo0b5w9MedL/edit?rtpof=true
