@@ -12,7 +12,7 @@
   * **Assign Animations**
   * **Pseudo-classes**
   * **Website Design - Typography, Spacing, Color**
-4. **Project **
+4. **Project**
   * Pop up Penguin
 
 
