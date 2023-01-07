@@ -1,7 +1,7 @@
 # Day 3
 
 ## Objective
-- CSS Flexbox 
+- CSS Basics and Flexbox 
 
 ## Table of Contents
 1. **Review Game**
